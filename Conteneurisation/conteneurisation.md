@@ -2,5 +2,8 @@
 
 # Docker
 - [Installation Docker *Debian/Ubuntu*](/install-docker)
-- [Installation Docker *Debian/Ubuntu*](/install-docker)
+{.links-list}
+
+# Docker-Compose
+- [Installation Docker-Compose *Debian/Ubuntu*](/install-docker-compose)
 {.links-list}
