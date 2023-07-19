@@ -5,3 +5,9 @@
 ```bash
 sudo apt update
 ```
+
+1 - Mettez à jour votre liste de packages existante :
+
+```bash
+sudo apt update
+```
