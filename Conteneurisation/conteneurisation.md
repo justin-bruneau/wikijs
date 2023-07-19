@@ -5,5 +5,5 @@
 {.links-list}
 
 # Docker-Compose
-- [Installation Docker-Compose *Debian/Ubuntu*](/install-docker-compose)
+- [Installation Docker-Compose *Debian/Ubuntu*](/Conteneurisation/install-docker-compose)
 {.links-list}
