@@ -1,3 +1,13 @@
+---
+title: install-docker-compose
+description: 
+published: true
+date: 2023-07-25T12:29:52.219Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-19T09:52:45.284Z
+---
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1500&pause=3000&width=600&height=100&lines=Installation+Docker-Compose)
 
 # Debian & Ubuntu
@@ -31,5 +41,5 @@ docker-compose --version
 ```
 Output :
 ```bash
-Docker Compose version v2.0.1
+Docker Compose version v2.20.0
 ```
